@@ -3,8 +3,7 @@
 This project is an interactive Excel-based dashboard designed to analyze and visualize salary trends across various data-related job roles worldwide. It combines data cleaning, analysis, and dynamic user interaction to deliver actionable salary insights.
 
 ## DataSet Used
-- <a href-"https://github.com/SahilM333/Salary_Calculator/blob/main/salary_dashboard.xlsx"> View DATA</a>
-  
+- <a href-"https://github.com/SahilM333/Salary_Calculator/blob/main/salary_dashboard.xlsx">View</a>  
 The dataset consists of 10,000+ global job postings spanning 90+ countries, covering roles such as Data Analyst, Data Scientist, and Business Analyst. Using this data, the project identifies salary benchmarks based on job title, location, and employment type.
 
 At the core of the dashboard is a dynamic Salary Calculator that allows users to select a job role, country, and work type to instantly retrieve the corresponding market median salary. This is powered by Excel functions such as `MEDIAN`, `IF`, and lookup logic, along with structured data validation.
